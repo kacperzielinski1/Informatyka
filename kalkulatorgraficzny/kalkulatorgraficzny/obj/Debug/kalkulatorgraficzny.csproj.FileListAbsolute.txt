@@ -1,0 +1,12 @@
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.csproj.AssemblyReference.cache
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.csproj.SuggestedBindingRedirects.cache
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\bin\Debug\kalkulatorgraficzny.exe.config
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\bin\Debug\kalkulatorgraficzny.exe
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\bin\Debug\kalkulatorgraficzny.pdb
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.Form1.resources
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.Properties.Resources.resources
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.csproj.GenerateResource.cache
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.csproj.CoreCompileInputs.cache
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.exe
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.pdb
+C:\Users\vizer\source\repos\kalkulatorgraficzny\kalkulatorgraficzny\obj\Debug\kalkulatorgraficzny.Form2.resources

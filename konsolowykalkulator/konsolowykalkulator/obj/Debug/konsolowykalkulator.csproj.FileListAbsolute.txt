@@ -1,0 +1,8 @@
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\bin\Debug\konsolowykalkulator.exe.config
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\bin\Debug\konsolowykalkulator.exe
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\bin\Debug\konsolowykalkulator.pdb
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\obj\Debug\konsolowykalkulator.csproj.AssemblyReference.cache
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\obj\Debug\konsolowykalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\obj\Debug\konsolowykalkulator.csproj.CoreCompileInputs.cache
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\obj\Debug\konsolowykalkulator.exe
+C:\Users\vizer\source\repos\konsolowykalkulator\konsolowykalkulator\obj\Debug\konsolowykalkulator.pdb
